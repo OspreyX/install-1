@@ -6,3 +6,7 @@
     version: master}
 - git: {local-name: serial, uri: 'https://github.com/clearpathrobotics/serial.git',
     version: master}
+- git: {local-name: rosserial, uri: 'https://github.com/clearpathrobotics/rosserial.git',
+    version: hydro-devel}
+- git: {local-name: robot_upstart, uri: 'https://github.com/clearpathrobotics/robot_upstart.git',
+    version: hydro-devel}
