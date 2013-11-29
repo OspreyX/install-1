@@ -9,5 +9,3 @@
 - git: {local-name: interactive_marker_twist_server,
     uri: 'https://github.com/ros-visualization/interactive_marker_twist_server.git',
     version: hydro-devel}
-
-https://github.com/ros-visualization/interactive_marker_twist_server
