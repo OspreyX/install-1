@@ -6,3 +6,8 @@
     version: master}
 - git: {local-name: robot_upstart, uri: 'https://github.com/clearpathrobotics/robot_upstart.git',
     version: hydro-devel}
+- git: {local-name: interactive_marker_twist_server,
+    uri: 'https://github.com/ros-visualization/interactive_marker_twist_server.git',
+    version: hydro-devel}
+
+https://github.com/ros-visualization/interactive_marker_twist_server
