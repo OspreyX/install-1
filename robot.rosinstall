@@ -1,7 +1,7 @@
 - git: {local-name: grizzly, uri: 'https://github.com/g/grizzly', 
-    version: hydro-devel}
+    version: indigo-devel}
 - git: {local-name: grizzly_robot, uri: 'https://github.com/g/grizzly_robot', 
-    version: hydro-devel}
+    version: indigo-devel}
 - git: {local-name: roboteq, uri: 'https://github.com/g/roboteq.git',
     version: master}
 - git: {local-name: serial, uri: 'https://github.com/clearpathrobotics/serial.git',
