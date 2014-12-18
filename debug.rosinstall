@@ -1,0 +1,4 @@
+- git: {local-name: grizzly, uri: 'https://github.com/g/grizzly.git', version: debug-imu}
+- git: {local-name: grizzly_simulator, uri: 'https://github.com/g/grizzly_simulator.git', version: indigo-devel}
+- git: {local-name: grizzly_desktop, uri: 'https://github.com/g/grizzly_desktop.git', version: indigo-devel}
+- git: {local-name: roboteq, uri: 'https://github.com/g/roboteq.git', version: master}
